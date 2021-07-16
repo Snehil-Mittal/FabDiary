@@ -2,7 +2,11 @@ const app = require('express')();
 
 const server = require('http').createServer(app);
 
-const io = require('socket.io')(server);
+const io = require('socket.io')(server,{
+    cors: {
+        origins: "http://localhost:5000",
+        methods: ["GET", "POST"]
+    }});
 
 io.on("connection",(socket)=>{
     console.log(socket);

@@ -24,6 +24,19 @@
   color: white;
 }
 
+input{
+  font-size: larger;
+  padding: 10px;
+  border-radius: 20px;
+  outline: none;
+}
+button{
+  font-size: larger;
+  margin-left: 20px;
+  padding: 10px;
+  border-radius: 30px;
+  outline: none;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +48,9 @@
   to {
     transform: rotate(360deg);
   }
+}
+ 
+span{
+  background-color: orange;
+  padding: 5px 15px;
 }
