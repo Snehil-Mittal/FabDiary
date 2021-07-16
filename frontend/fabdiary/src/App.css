@@ -25,13 +25,13 @@
 }
 
 input{
-  font-size: larger;
+  font-size: large;
   padding: 10px;
   border-radius: 20px;
   outline: none;
 }
 button{
-  font-size: larger;
+  font-size: large;
   margin-left: 20px;
   padding: 10px;
   border-radius: 30px;
