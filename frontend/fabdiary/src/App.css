@@ -36,6 +36,7 @@ button {
 	padding: 10px;
 	border-radius: 30px;
 	outline: none;
+	background-color: #b5e8ff;
 }
 .App-link {
 	color: #61dafb;
@@ -51,6 +52,6 @@ button {
 }
 
 span {
-	background-color: orange;
+	background-color: rgb(118, 168, 44);
 	padding: 5px 15px;
 }
