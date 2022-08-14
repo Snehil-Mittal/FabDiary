@@ -57,7 +57,7 @@ $ cd FabDiary
 
 ```bash
 npm i
-node app.js
+npm start
 ```
 
 **Follow the steps below**
@@ -78,6 +78,3 @@ $ git push origin my-feature
 
 After your pull request is merged, you can delete your branch
 
-## 📝 License
-
-<!-- You can delete the license if you don't want it -->
