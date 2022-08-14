@@ -20,9 +20,6 @@
 ## 💻 About the project
 
 - <p style="color: red;">Basically it is a diary based chatting application where you can talk to yourself or write about what you feel using some random names. This project is solely made to learn a new technology of sockets and implement it. Do share your suggestions to improve it.
-  <p style="center">OR</p>
-
-- You can share your amazing ideas here.
 </p>
 
 ## 🚀 Technologies
